@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/2/res/layout
+END
+variable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/res/layout/variable.xml
+END
+activity_calculator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/res/layout/activity_calculator.xml
+END
+activity_graph.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/res/layout/activity_graph.xml
+END
+advanced_calculator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/res/layout/advanced_calculator.xml
+END

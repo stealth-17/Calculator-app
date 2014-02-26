@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+     <item android:id="@+id/advanced" android:icon="@drawable/pi" android:title="Advanced"></item>    
+    <item android:id="@+id/pref" android:icon="@android:drawable/ic_menu_manage" android:title="Preferences" ></item>
+    <item android:id="@+id/about" android:icon="@android:drawable/ic_dialog_info" android:title="About"></item>
+    <item android:id="@+id/exit" android:icon="@android:drawable/btn_dialog" android:title="Exit"> </item>
+</menu>

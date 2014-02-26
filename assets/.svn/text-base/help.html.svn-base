@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+<h1>Help!</h1>
+<h2>1. Calculation</h2>
+<b2><h1>Basic Calculator</h1>
+For calculation simply type your expression as you do in normal calculator and hit the sum button.
+The preveious answer is available at "Ans" you will be able to handle "Ans" as a normal memory element.
+You can save both result and expression in memory usinmg "Mem" option in basix calculator. If the content is saved
+a sign "M" appears at top. You can retrive the content of memory anytime by pressing "MS" button.<br />
+<h2>Scientific Calculator</h2>
+You can handle the scientific calculator as your normal scientific calculator. You can calculate trignometic values in both
+degree format and in radian format. By default it is in degree format. You can change this option by pressing "DRG" button.
+Please be careful if you got mistakes in your expression answer will be error. Because of this app is still under development
+we are not completely rectified all its problems yet. So if yiu got any bug or error please inform us so that we can fix it
+in our new version. We will be always thankful for your feedback.</b2>
+<h3>2. Graph Plotting</h3>
+<b3>Graph plotting is implemented as an experimental part. So there is a chance of error. But still you will be able to
+plot some basic graphs. This option is implemente using androidplot a free java package distributed under GPL license. Learn more
+about androidplot at http://androidplot.com/..... Use "var x" key to insert a variable x in your expression. Type your complete expression and hit options then
+click on Plot menu which is available only in scientific mode. Please be aware that this portion is experimental so there is a chance of error.
+We are not liable for any error causing due to this feature. But if you will inform us, we will definitely fix the problem in next version.
+NB: Sooner we will be implementing better graph plotting and 3d graphview with the help of arity arithmatic engine.</b3>
+<h4>Report Bugs</h4>
+<b4>Please report all your bugs to the address arunjose.mundackattu@gmail.com</b4> 
+</body>
+</html>
